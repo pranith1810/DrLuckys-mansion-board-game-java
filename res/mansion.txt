@@ -1,0 +1,60 @@
+35 32 Main World
+50 Rick
+Simba
+29
+2 0 16 3 Entrance Hall
+11 20 14 22 Staircase
+21  4 24  13 Storage room
+17 13 20 19 Bathroom
+15 28 23 32 Walk-in closet
+5 23 14 32 Keeping room
+25 7 31 13 Pantry
+31 14 35 19 Kids bedroom
+25  0 31 6 Reception room
+ 4  10  11  12 Dining
+ 10 4  20 9 Library
+ 21 24 30 27 Half bath
+ 0 10 3 18 Home office
+ 0 23  4 32 Sun Room
+7  13 16 19 Kitchen
+31 20 35 25 Nursery
+ 21 14 27 23 Living Room
+ 0 4 3 9 Attic
+15 20 20 27 Family Room
+28  14 30 23 Laundry
+4  4 9 9 Master bedroom
+32  0 35 8 Guest room
+17 0 24 3 Garage
+0 19 3 22 Loft
+12 10 20 12 Home theatre
+24  28 30 32 Game room
+4  20 10 22 Gym
+31  26 34 32 Play room
+4  13 6 19 Music room
+25
+8 3 Pan
+4 2 Opener
+12 2 Shoe
+9 3 Sharp Knife
+0 3 Revolver
+15 3 Civil War Cannon
+2 4 Chain Saw
+2 2 Broom Stick
+1 2 Billiard Cue
+19 2 Rat Poison
+6 2 Trowel
+23 4 Big Red Hammer
+17 2 Pinking Shears
+18 3 Duck Decoy
+13 2 Bad Cream
+7 2 Monkey Hand
+11 2 Tight Hat
+29 2 Piece of Rope
+5 3 Silken Cord
+14 2 Loud Noise
+24 10 Pistol
+25 4 Basket Ball
+13 7 Machete
+27 6 Nerf gun
+3 9 Bat
+
